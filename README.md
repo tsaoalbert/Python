@@ -1,2 +1,3 @@
 # Python
-# Sample programs for education purpose
+# List of sample programs for the education purpose
+# 
